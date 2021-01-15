@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+If you have any trouble understanding anything in here, feel free not to contact me as I don't know jack `sh*t` as to what this all is
