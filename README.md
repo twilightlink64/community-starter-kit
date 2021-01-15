@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The Probot App is an app the welcome new GitHub users to the platform, giving the new users a sense of belonging and helping with emotional stability (coding or programming can get lonely sometimes).
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- helps you with your feelings
+- makes you feel welcome
+- ensures that you are okay :heart:
+
 
 ## Getting started
 
